@@ -1,0 +1,137 @@
+{
+  "activityOverview": {
+    "userId": "1234567890",
+    "activityType": "INDOOR_CYCLING",
+    "deviceName": "instinct2",
+    "maxHeartRate": 190,
+    "duration": 3667
+  },
+  "laps": [
+    {
+      "startTime": 1661158927,
+      "distance": 15,
+      "duration": 600,
+      "heartRateSamples": [
+        {
+          "sampleIndex": 0,
+          "heartRate": 120
+        },
+        {
+          "sampleIndex": 1,
+          "heartRate": 126
+        },
+        {
+          "sampleIndex": 2,
+          "heartRate": 122
+        },
+        {
+          "sampleIndex": 3,
+          "heartRate": 140
+        },
+        {
+          "sampleIndex": 4,
+          "heartRate": 142
+        },
+        {
+          "sampleIndex": 5,
+          "heartRate": 155
+        },
+        {
+          "sampleIndex": 6,
+          "heartRate": 145
+        },
+        {
+          "sampleIndex": 7,
+          "heartRate": 141
+        },
+        {
+          "sampleIndex": 8,
+          "heartRate": 147
+        },
+        {
+          "sampleIndex": 9,
+          "heartRate": 155
+        },
+        {
+          "sampleIndex": 10,
+          "heartRate": 160
+        },
+        {
+          "sampleIndex": 11,
+          "heartRate": 180
+        },
+        {
+          "sampleIndex": 12,
+          "heartRate": 152
+        },
+        {
+          "sampleIndex": 13,
+          "heartRate": 120
+        }
+      ]
+    },
+    {
+      "startTime": 1661158929,
+      "distance": 30,
+      "duration": 900,
+      "heartRateSamples": [
+        {
+          "sampleIndex": 14,
+          "heartRate": 143
+        },
+        {
+          "sampleIndex": 15,
+          "heartRate": 151
+        },
+        {
+          "sampleIndex": 16,
+          "heartRate": 164
+        },
+        {
+          "sampleIndex": 17,
+          "heartRate": null
+        },
+        {
+          "sampleIndex": 18,
+          "heartRate": 173
+        },
+        {
+          "sampleIndex": 19,
+          "heartRate": 181
+        },
+        {
+          "sampleIndex": 20,
+          "heartRate": 180
+        },
+        {
+          "sampleIndex": 21,
+          "heartRate": 182
+        },
+        {
+          "sampleIndex": 22,
+          "heartRate": 170
+        },
+        {
+          "sampleIndex": 23,
+          "heartRate": 188
+        },
+        {
+          "sampleIndex": 24,
+          "heartRate": 181
+        },
+        {
+          "sampleIndex": 25,
+          "heartRate": 174
+        },
+        {
+          "sampleIndex": 26,
+          "heartRate": 172
+        },
+        {
+          "sampleIndex": 27,
+          "heartRate": 158
+        }
+      ]
+    }
+  ]
+}
